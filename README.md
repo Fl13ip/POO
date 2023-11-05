@@ -12,6 +12,6 @@ The practical work consists of the implementation in C++, of a construction and 
 - Game action is controlled by actions that the player specifies by writing commands.
   
 ## For the implementation of this project were used:
-- Classses
+- Classes
 - Pointers
 - Arrays / Arrays of pointers
